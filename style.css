@@ -96,7 +96,7 @@ nav ul li a:hover{
 }
 @media (max-width:950px){
     .content .image img{
-        width: 300px;
+        width: 200px;
     }
     .content , nav{
         flex-direction: column;
